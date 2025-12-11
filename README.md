@@ -8,7 +8,7 @@
 ### CS Student @ Alamein International University 🏛️ | Gamer & YouTuber 🎮
 
 <p>
-  <a href="https://www.youtube.com/">
+  <a href="[https://www.youtube.com/](https://www.youtube.com/@elfroun_2006)">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
   </a>
 </p>

@@ -66,7 +66,7 @@ class Ashraf:
     vibe        = "Coffee ☕ + Code 💻 + Lo-fi 🎧"
 
     def motto(self):
-        return "Build it. Break it. Fix it. Ship it. 🔥"
+        return "Build it. Break it. Fix it. Ship it 🔥"
 ```
 
 <br clear="right"/>

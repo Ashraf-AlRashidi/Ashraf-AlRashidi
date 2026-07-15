@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Ashraf-AlRashidi&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Ashraf-AlRashidi.Ashraf-AlRashidi&left_color=grey&right_color=00D9FF&left_text=Profile%20Views" />
 
 </div>
 
@@ -172,8 +172,17 @@ class Ashraf:
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashraf-AlRashidi&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=false&no-bg=false" width="95%"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ashraf-AlRashidi&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=false&no-bg=false" width="95%"/>
 </div>
+
+<!--
+  ℹ️ لو الصف ده ظهر فاضي برضو، الخدمة الأساسية github-profile-trophy.vercel.app
+  بتقع كتير أو بتعمل لها Rate limit — استبدل الرابط بواحد من دول (نفس الصيغة بالظبط):
+    https://github-profile-trophy-fork-two.vercel.app/?username=Ashraf-AlRashidi
+    https://github-profile-trophy-winning.vercel.app/?username=Ashraf-AlRashidi
+    https://github-profile-trophy-kannan.vercel.app/?username=Ashraf-AlRashidi
+  جرب واحد واحد لحد ما تلاقي اللي شغال دلوقتي.
+-->
 
 ---
 
@@ -215,6 +224,21 @@ class Ashraf:
 | 🧩 | Problem solver — LeetCode is my gym |
 | 📹 | Content creator on YouTube & TikTok |
 | 🌍 | Proudly from Egypt 🇪🇬 |
+
+</div>
+
+---
+
+## 💌 Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on Flutter/mobile projects, hackathons, or open-source contributions.
+Feel free to reach out on any of the platforms above ☝️
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=25&section=header" width="60%"/>
 
 </div>
 

@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Ashraf-AlRashidi.Ashraf-AlRashidi&left_color=grey&right_color=00D9FF&left_text=Profile%20Views" />
+<img src="https://komarev.com/ghpvc/?username=Ashraf-AlRashidi&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
 </div>
 

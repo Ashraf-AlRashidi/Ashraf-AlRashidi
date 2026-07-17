@@ -178,7 +178,7 @@ class Ashraf:
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashraf-AlRashidi&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-frame=false&no-bg=false" width="100%"/>
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=Ashraf-AlRashidi&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-frame=false&no-bg=false" width="100%"/>
 </div>
 
 <br>
@@ -204,6 +204,14 @@ class Ashraf:
 <div align="center">
 
 Feel free to reach out if you want to collaborate on a project, talk about technology, or just say hi! ✨
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+
+<br><br>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="Coding GIF"/>
 
 <br>
 

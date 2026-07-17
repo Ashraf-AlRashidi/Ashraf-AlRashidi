@@ -69,34 +69,75 @@ class Ashraf:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (My Masterpieces)
 
-<table align="center" width="100%">
+<div align="center">
+
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/Ashraf-AlRashidi/Java-OOP-Supermarket-Management-System">Supermarket Management System</a></h3>
-      <p>A comprehensive Object-Oriented Programming (OOP) project in <b>Java</b> to manage supermarket operations, inventory, and billing efficiently.</p>
-      <a href="https://github.com/Ashraf-AlRashidi/Java-OOP-Supermarket-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=Java-OOP-Supermarket-Management-System&theme=tokyonight&border_color=00D9FF"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚨 <a href="https://github.com/Ashraf-AlRashidi/etamen">Etamen (إطمن)</a></h3>
-      <p>A web-based health and safety project. Built to provide quick tools and resources, integrating clean UI with practical functionality.</p>
+    <td width="33%" align="center">
+      <a href="https://github.com/Ashraf-AlRashidi/etamen">
+        <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
+      </a>
+      <br>
+      <h3>🚨 Etamen (إطمن)</h3>
+      <p>A web-based health & safety project.<br>Provides quick tools & resources for medical care.</p>
       <a href="https://github.com/Ashraf-AlRashidi/etamen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=etamen&theme=tokyonight&border_color=00D9FF"/></a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛠️ <a href="https://github.com/Ashraf-AlRashidi/AshrafTools-V2">Ashraf Tools V2</a></h3>
-      <p>A collection of web-based utilities and tools designed to make daily tasks easier. Built with <b>JavaScript</b>, HTML, and CSS.</p>
+    <td width="33%" align="center">
+      <a href="https://github.com/Ashraf-AlRashidi/AshrafTools-V2">
+        <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
+      </a>
+      <br>
+      <h3>🛠️ Ashraf Tools V2</h3>
+      <p>A collection of web-based utilities and tools.<br>Designed to make daily coding tasks easier.</p>
       <a href="https://github.com/Ashraf-AlRashidi/AshrafTools-V2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=AshrafTools-V2&theme=tokyonight&border_color=00D9FF"/></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>📸 <a href="https://github.com/Ashraf-AlRashidi/teleprompter">Teleprompter</a></h3>
-      <p>A smooth and customizable teleprompter application built using <b>JavaScript</b> for content creators and presenters.</p>
+    <td width="33%" align="center">
+      <a href="https://github.com/Ashraf-AlRashidi/teleprompter">
+        <img src="https://images.unsplash.com/photo-1601506521937-0121a7fc2a6b?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
+      </a>
+      <br>
+      <h3>📸 Teleprompter</h3>
+      <p>A smooth, customizable teleprompter.<br>Built using JS for content creators & YouTubers.</p>
       <a href="https://github.com/Ashraf-AlRashidi/teleprompter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=teleprompter&theme=tokyonight&border_color=00D9FF"/></a>
     </td>
   </tr>
+  <tr>
+    <td width="33%" align="center">
+      <br>
+      <a href="https://github.com/Ashraf-AlRashidi/AgeCalculator">
+        <img src="https://images.unsplash.com/photo-1501139083538-0139583c060f?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
+      </a>
+      <br>
+      <h3>⏳ Age Calculator</h3>
+      <p>An interactive and responsive web app<br>to calculate exact age in years, months, and days.</p>
+      <a href="https://github.com/Ashraf-AlRashidi/AgeCalculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=AgeCalculator&theme=tokyonight&border_color=00D9FF"/></a>
+    </td>
+    <td width="33%" align="center">
+      <br>
+      <a href="https://github.com/Ashraf-AlRashidi/love-story">
+        <img src="https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
+      </a>
+      <br>
+      <h3>❤️ Love Story</h3>
+      <p>A beautifully designed interactive story.<br>Created with advanced HTML/CSS & Animations.</p>
+      <a href="https://github.com/Ashraf-AlRashidi/love-story"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=love-story&theme=tokyonight&border_color=00D9FF"/></a>
+    </td>
+    <td width="33%" align="center">
+      <br>
+      <a href="https://github.com/Ashraf-AlRashidi/Java-OOP-Supermarket-Management-System">
+        <img src="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
+      </a>
+      <br>
+      <h3>🛒 Supermarket System</h3>
+      <p>A complex Java OOP desktop application<br>for full supermarket management.</p>
+      <a href="https://github.com/Ashraf-AlRashidi/Java-OOP-Supermarket-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=Java-OOP-Supermarket-Management-System&theme=tokyonight&border_color=00D9FF"/></a>
+    </td>
+  </tr>
 </table>
+
+</div>
 
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">

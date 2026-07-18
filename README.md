@@ -5,12 +5,12 @@
 <div align="center">
 
 <!-- ══════════════ ANIMATED HEADER BANNER ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Ashraf%20Al-Rashidi&fontSize=50&fontColor=00D9FF&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20%D8%A7%D8%B4%D8%B1%D9%81%20%D8%A7%D9%84%D8%B1%D8%B4%D9%8A%D8%AF%D9%89&descAlignY=58&descSize=20&animation=fadeIn&stroke=00D9FF&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Ashraf%20Al-Rashidi&fontSize=60&fontColor=00D9FF&fontAlignY=40&desc=Developer%20%7C%20Creator%20%7C%20Problem%20Solver&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- ══════════════ ANIMATED TYPING ══════════════ -->
 <br>
 <a href="https://github.com/Ashraf-AlRashidi">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Welcome+to+my+Creative+Space!;%F0%9F%92%BB+Software+Engineering+Student;%E2%98%95+Java+%7C+%F0%9F%90%8D+Python+%7C+%E2%9A%A1+JavaScript;%F0%9F%9A%80+Building+Tools+%26+Applications;%F0%9F%8E%93+Always+Learning+%26+Growing" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+Creative+Hub;🚀+Turning+Ideas+Into+Reality;💻+Full-Stack+Developer+%7C+Tech+Enthusiast;🎨+UI%2FUX+%7C+Web+%7C+Desktop+Applications" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -53,15 +53,20 @@ class Ashraf:
         self.location   = "Egypt 🇪🇬"
         self.education  = "Software Engineering Student"
         self.role       = "Developer & Tech Enthusiast"
+        self.passion    = "Building Amazing Projects 🔥"
 
     def get_skills(self):
         return {
             "Languages": ["Java", "Python", "JavaScript", "HTML/CSS"],
-            "Interests": ["Software Development", "Web Tools", "Problem Solving"]
+            "Interests": ["Software Development", "Web Tools", "UI/UX", "Problem Solving"],
+            "Specialties": ["Web Apps", "Desktop Applications", "Creative Projects"]
         }
 
     def get_motto(self):
         return "Transforming ideas into elegant code ⚡"
+    
+    def get_mission(self):
+        return "Building solutions that make a difference 💡"
 ```
 
 <br clear="right"/>
@@ -69,9 +74,11 @@ class Ashraf:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 <br>
 
-## 🚀 Featured Projects (My Masterpieces)
+## 🚀 Featured Projects - My Masterpieces
 
 <div align="center">
+
+### 🌟 Top Projects
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
@@ -81,17 +88,17 @@ class Ashraf:
       </a>
       <br>
       <h3>🚨 Etamen (إطمن)</h3>
-      <p>A web-based health & safety project.<br>Provides quick tools & resources for medical care.</p>
-      <a href="https://github.com/Ashraf-AlRashidi/etamen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=etamen&theme=tokyonight&border_color=00D9FF"/></a>
+      <p>Health & Safety Web Platform<br>Medical care tools & resources</p>
+      <a href="https://github.com/Ashraf-AlRashidi/etamen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=etamen&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
     </td>
     <td width="33%" align="center">
-      <a href="https://github.com/Ashraf-AlRashidi/AshrafTools-V2">
+      <a href="https://github.com/Ashraf-AlRashidi/AshrafTools-V3">
         <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
       </a>
       <br>
-      <h3>🛠️ Ashraf Tools V2</h3>
-      <p>A collection of web-based utilities and tools.<br>Designed to make daily coding tasks easier.</p>
-      <a href="https://github.com/Ashraf-AlRashidi/AshrafTools-V2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=AshrafTools-V2&theme=tokyonight&border_color=00D9FF"/></a>
+      <h3>🛠️ Ashraf Tools V3</h3>
+      <p>Advanced Web Utilities<br>Latest version with premium features</p>
+      <a href="https://github.com/Ashraf-AlRashidi/AshrafTools-V3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=AshrafTools-V3&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/Ashraf-AlRashidi/teleprompter">
@@ -99,8 +106,8 @@ class Ashraf:
       </a>
       <br>
       <h3>📸 Teleprompter</h3>
-      <p>A smooth, customizable teleprompter.<br>Built using JS for content creators & YouTubers.</p>
-      <a href="https://github.com/Ashraf-AlRashidi/teleprompter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=teleprompter&theme=tokyonight&border_color=00D9FF"/></a>
+      <p>Smooth & Customizable<br>For YouTubers & Content Creators</p>
+      <a href="https://github.com/Ashraf-AlRashidi/teleprompter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=teleprompter&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
     </td>
   </tr>
   <tr>
@@ -111,8 +118,8 @@ class Ashraf:
       </a>
       <br>
       <h3>⏳ Age Calculator</h3>
-      <p>An interactive and responsive web app<br>to calculate exact age in years, months, and days.</p>
-      <a href="https://github.com/Ashraf-AlRashidi/AgeCalculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=AgeCalculator&theme=tokyonight&border_color=00D9FF"/></a>
+      <p>Interactive Web App<br>Calculate age in years, months, days</p>
+      <a href="https://github.com/Ashraf-AlRashidi/AgeCalculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=AgeCalculator&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
     </td>
     <td width="33%" align="center">
       <br>
@@ -121,8 +128,8 @@ class Ashraf:
       </a>
       <br>
       <h3>❤️ Love Story</h3>
-      <p>A beautifully designed interactive story.<br>Created with advanced HTML/CSS & Animations.</p>
-      <a href="https://github.com/Ashraf-AlRashidi/love-story"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=love-story&theme=tokyonight&border_color=00D9FF"/></a>
+      <p>Interactive Narrative<br>Advanced HTML/CSS & Animations</p>
+      <a href="https://github.com/Ashraf-AlRashidi/love-story"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=love-story&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
     </td>
     <td width="33%" align="center">
       <br>
@@ -131,8 +138,57 @@ class Ashraf:
       </a>
       <br>
       <h3>🛒 Supermarket System</h3>
-      <p>A complex Java OOP desktop application<br>for full supermarket management.</p>
-      <a href="https://github.com/Ashraf-AlRashidi/Java-OOP-Supermarket-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=Java-OOP-Supermarket-Management-System&theme=tokyonight&border_color=00D9FF"/></a>
+      <p>Complex Java OOP Desktop App<br>Full supermarket management</p>
+      <a href="https://github.com/Ashraf-AlRashidi/Java-OOP-Supermarket-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=Java-OOP-Supermarket-Management-System&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 🎯 Other Amazing Projects
+
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Ashraf-AlRashidi/Artistic_Ashrooof">
+        <img src="https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
+      </a>
+      <br>
+      <h3>🎨 Artistic Ashrooof</h3>
+      <p>Creative Digital Art Project<br>Showcasing artistic designs</p>
+      <a href="https://github.com/Ashraf-AlRashidi/Artistic_Ashrooof"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=Artistic_Ashrooof&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Ashraf-AlRashidi/Negotation_Ashrooof">
+        <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
+      </a>
+      <br>
+      <h3>💼 Negotiation Ashrooof</h3>
+      <p>Business Negotiation Tool<br>Strategic decision making</p>
+      <a href="https://github.com/Ashraf-AlRashidi/Negotation_Ashrooof"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=Negotation_Ashrooof&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <br>
+      <a href="https://github.com/Ashraf-AlRashidi/AshrafTools-V2">
+        <img src="https://images.unsplash.com/photo-1517694712202-14819c9cb6e1?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
+      </a>
+      <br>
+      <h3>🔧 Ashraf Tools V2</h3>
+      <p>Web Utilities Collection<br>Making coding tasks easier</p>
+      <a href="https://github.com/Ashraf-AlRashidi/AshrafTools-V2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=AshrafTools-V2&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
+    </td>
+    <td width="50%" align="center">
+      <br>
+      <a href="https://github.com/Ashraf-AlRashidi/Final-Project">
+        <img src="https://images.unsplash.com/photo-1516534775068-bb57e39c139f?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
+      </a>
+      <br>
+      <h3>🎓 Final Project</h3>
+      <p>Capstone Project<br>University final showcase</p>
+      <a href="https://github.com/Ashraf-AlRashidi/Final-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=Final-Project&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
     </td>
   </tr>
 </table>
@@ -147,9 +203,18 @@ class Ashraf:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark&perline=8"/>
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark&perline=5"/>
+
 <br><br>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,pycharm&theme=dark&perline=8"/>
+
+### Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,linux&theme=dark&perline=6"/>
+
+<br><br>
+
+### Additional Technologies
+<img src="https://skillicons.dev/icons?i=mysql,firebase,figma&theme=dark&perline=3"/>
 
 </div>
 
@@ -161,13 +226,13 @@ class Ashraf:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashraf-AlRashidi&show_icons=true&theme=tokyonight&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&border_color=00D9FF&border_radius=12&count_private=true&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf-AlRashidi&theme=tokyonight&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0d1117&border=00D9FF&stroke=00D9FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ashraf-AlRashidi&show_icons=true&theme=tokyonight&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&border_color=00D9FF&hide_border=false&rank_icon=github" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf-AlRashidi&theme=tokyonight&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0d1117&border=00D9FF&stroke=00D9FF" width="48%" alt="Streak Stats"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-AlRashidi&layout=compact&theme=tokyonight&title_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&border_color=00D9FF&border_radius=12" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashraf-AlRashidi&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=false&border_color=00D9FF&radius=12" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-AlRashidi&layout=compact&theme=tokyonight&title_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&border_color=00D9FF&hide_border=false&card_width=300" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashraf-AlRashidi&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=false&border_radius=10" width="48%" alt="Activity Graph"/>
 
 </div>
 
@@ -178,7 +243,7 @@ class Ashraf:
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=Ashraf-AlRashidi&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-frame=false&no-bg=false" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashraf-AlRashidi&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=false" width="100%" alt="GitHub Trophies"/>
 </div>
 
 <br>
@@ -189,9 +254,9 @@ class Ashraf:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashraf-AlRashidi/Ashraf-AlRashidi/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashraf-AlRashidi/Ashraf-AlRashidi/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Ashraf-AlRashidi/Ashraf-AlRashidi/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </div>
 
@@ -199,22 +264,48 @@ class Ashraf:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 <br>
 
-## 💌 Let's Connect
+## 🎯 My Journey & Goals
 
 <div align="center">
 
-Feel free to reach out if you want to collaborate on a project, talk about technology, or just say hi! ✨
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                           │
+│  🎓 Software Engineering Student | Egypt 🇪🇬            │
+│  💻 Full-Stack Developer | Tech Enthusiast              │
+│  🚀 Always Learning & Building Amazing Projects          │
+│  🎨 UI/UX Designer | Creative Problem Solver            │
+│  📱 Web & Desktop Application Developer                 │
+│                                                           │
+│  Goal: Make a positive impact through technology 🌟      │
+│                                                           │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br>
+
+## 💌 Let's Connect & Collaborate
+
+<div align="center">
+
+Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi! ✨
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Keep%20learning%2C%20keep%20coding%2C%20keep%20creating!" alt="Quote" />
 
 <br><br>
+
+**Let's build something amazing together! 🚀**
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="Coding GIF"/>
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer&reversal=false" width="100%"/>
 
 </div>

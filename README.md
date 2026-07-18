@@ -1,311 +1,363 @@
-<!-- ██████████████████████████████████████████████████████ -->
-<!--              ASHRAF AL-RASHIDI · README.md            -->
-<!-- ██████████████████████████████████████████████████████ -->
+<!-- 🎨 ASHRAF AL-RASHIDI - CREATIVE PORTFOLIO 🎨 -->
 
 <div align="center">
 
-<!-- ══════════════ ANIMATED HEADER BANNER ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Ashraf%20Al-Rashidi&fontSize=60&fontColor=00D9FF&fontAlignY=40&desc=Developer%20%7C%20Creator%20%7C%20Problem%20Solver&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    NEON HEADER BANNER                  -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<!-- ══════════════ ANIMATED TYPING ══════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,24243e,1E90FF,00D9FF&height=300&section=header&text=🚀%20ASHRAF%20AL-RASHIDI&fontSize=80&fontColor=00D9FF&animation=fadeIn&fontAlignY=50&desc=Portfolio%20%7C%20Developer%20%7C%20Creator&descFontSize=20&descAlignY=75"/>
+</picture>
+
 <br>
-<a href="https://github.com/Ashraf-AlRashidi">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+Creative+Hub;🚀+Turning+Ideas+Into+Reality;💻+Full-Stack+Developer+%7C+Tech+Enthusiast;🎨+UI%2FUX+%7C+Web+%7C+Desktop+Applications" alt="Typing SVG" />
-</a>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--           DYNAMIC INTRO WITH CUSTOM ANIMATION          -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=✨+Welcome+to+My+Creative+Universe;🔥+Full-Stack+Developer;💡+Innovative+Problem+Solver;🎯+Building+The+Future+Today" alt="Dynamic Typing"/>
 
 <br><br>
 
-<!-- ══════════════ SOCIAL LINKS ══════════════ -->
-<p>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              SOCIAL CONNECTIONS NEON STYLE            -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <a href="https://github.com/Ashraf-AlRashidi">
+    <img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117&borderRadius=50" alt="GitHub"/>
+  </a>
   <a href="https://www.youtube.com/@elfroun_2006">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117&borderRadius=50" alt="YouTube"/>
   </a>
   <a href="https://www.linkedin.com/in/ashraf-al-rashidi-68141b272/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/>
-  </a>
-  <a href="https://www.facebook.com/elfroun2006">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&borderRadius=50" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/elfroun2006/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117&borderRadius=50" alt="Instagram"/>
   </a>
   <a href="https://www.tiktok.com/@elfroun1">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=00D9FF&labelColor=0d1117&borderRadius=50" alt="TikTok"/>
   </a>
-</p>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Ashraf-AlRashidi&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Ashraf-AlRashidi&style=flat-square&color=00D9FF&label=%E2%9C%A8+VISITORS" />
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  NEON DIVIDER LINE                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-<br>
 
-## 🧑‍💻 About Me
-
-<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF"/>
-
-```python
-class Ashraf:
-    def __init__(self):
-        self.name       = "Ashraf Al-Rashidi (اشرف الرشيدى)"
-        self.location   = "Egypt 🇪🇬"
-        self.education  = "Software Engineering Student"
-        self.role       = "Developer & Tech Enthusiast"
-        self.passion    = "Building Amazing Projects 🔥"
-
-    def get_skills(self):
-        return {
-            "Languages": ["Java", "Python", "JavaScript", "HTML/CSS"],
-            "Interests": ["Software Development", "Web Tools", "UI/UX", "Problem Solving"],
-            "Specialties": ["Web Apps", "Desktop Applications", "Creative Projects"]
-        }
-
-    def get_motto(self):
-        return "Transforming ideas into elegant code ⚡"
-    
-    def get_mission(self):
-        return "Building solutions that make a difference 💡"
-```
-
-<br clear="right"/>
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-<br>
-
-## 🚀 Featured Projects - My Masterpieces
+## 🎭 WHO AM I?
 
 <div align="center">
 
-### 🌟 Top Projects
+<table width="100%">
+<tr>
+<td width="40%">
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/Ashraf-AlRashidi/etamen">
-        <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
-      </a>
-      <br>
-      <h3>🚨 Etamen (إطمن)</h3>
-      <p>Health & Safety Web Platform<br>Medical care tools & resources</p>
-      <a href="https://github.com/Ashraf-AlRashidi/etamen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=etamen&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/Ashraf-AlRashidi/AshrafTools-V3">
-        <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
-      </a>
-      <br>
-      <h3>🛠️ Ashraf Tools V3</h3>
-      <p>Advanced Web Utilities<br>Latest version with premium features</p>
-      <a href="https://github.com/Ashraf-AlRashidi/AshrafTools-V3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=AshrafTools-V3&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/Ashraf-AlRashidi/teleprompter">
-        <img src="https://images.unsplash.com/photo-1601506521937-0121a7fc2a6b?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
-      </a>
-      <br>
-      <h3>📸 Teleprompter</h3>
-      <p>Smooth & Customizable<br>For YouTubers & Content Creators</p>
-      <a href="https://github.com/Ashraf-AlRashidi/teleprompter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=teleprompter&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <br>
-      <a href="https://github.com/Ashraf-AlRashidi/AgeCalculator">
-        <img src="https://images.unsplash.com/photo-1501139083538-0139583c060f?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
-      </a>
-      <br>
-      <h3>⏳ Age Calculator</h3>
-      <p>Interactive Web App<br>Calculate age in years, months, days</p>
-      <a href="https://github.com/Ashraf-AlRashidi/AgeCalculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=AgeCalculator&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
-    </td>
-    <td width="33%" align="center">
-      <br>
-      <a href="https://github.com/Ashraf-AlRashidi/love-story">
-        <img src="https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
-      </a>
-      <br>
-      <h3>❤️ Love Story</h3>
-      <p>Interactive Narrative<br>Advanced HTML/CSS & Animations</p>
-      <a href="https://github.com/Ashraf-AlRashidi/love-story"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=love-story&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
-    </td>
-    <td width="33%" align="center">
-      <br>
-      <a href="https://github.com/Ashraf-AlRashidi/Java-OOP-Supermarket-Management-System">
-        <img src="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
-      </a>
-      <br>
-      <h3>🛒 Supermarket System</h3>
-      <p>Complex Java OOP Desktop App<br>Full supermarket management</p>
-      <a href="https://github.com/Ashraf-AlRashidi/Java-OOP-Supermarket-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=Java-OOP-Supermarket-Management-System&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
-    </td>
-  </tr>
-</table>
+```
+╔════════════════════════════════════╗
+║        👨‍💻 CODE ARTIST PROFILE        ║
+╠════════════════════════════════════╣
+║                                    ║
+║  🎨 Name: Ashraf Al-Rashidi       ║
+║  📍 Location: Egypt 🇪🇬           ║
+║  🎓 Status: Software Engineer     ║
+║  💻 Role: Full-Stack Developer    ║
+║  ⚡ Passion: Innovation & Creativity║
+║  🚀 Mission: Change the World     ║
+║                                    ║
+╚════════════════════════════════════╝
+```
 
-<br>
+</td>
+<td width="60%">
 
-### 🎯 Other Amazing Projects
+<img src="https://media.giphy.com/media/qGXVcoad5IYwg/giphy.gif" width="100%" style="border-radius: 15px;"/>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Ashraf-AlRashidi/Artistic_Ashrooof">
-        <img src="https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
-      </a>
-      <br>
-      <h3>🎨 Artistic Ashrooof</h3>
-      <p>Creative Digital Art Project<br>Showcasing artistic designs</p>
-      <a href="https://github.com/Ashraf-AlRashidi/Artistic_Ashrooof"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=Artistic_Ashrooof&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Ashraf-AlRashidi/Negotation_Ashrooof">
-        <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
-      </a>
-      <br>
-      <h3>💼 Negotiation Ashrooof</h3>
-      <p>Business Negotiation Tool<br>Strategic decision making</p>
-      <a href="https://github.com/Ashraf-AlRashidi/Negotation_Ashrooof"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=Negotation_Ashrooof&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <br>
-      <a href="https://github.com/Ashraf-AlRashidi/AshrafTools-V2">
-        <img src="https://images.unsplash.com/photo-1517694712202-14819c9cb6e1?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
-      </a>
-      <br>
-      <h3>🔧 Ashraf Tools V2</h3>
-      <p>Web Utilities Collection<br>Making coding tasks easier</p>
-      <a href="https://github.com/Ashraf-AlRashidi/AshrafTools-V2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=AshrafTools-V2&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
-    </td>
-    <td width="50%" align="center">
-      <br>
-      <a href="https://github.com/Ashraf-AlRashidi/Final-Project">
-        <img src="https://images.unsplash.com/photo-1516534775068-bb57e39c139f?auto=format&fit=crop&w=300&h=150&q=80" width="100%" style="border-radius: 10px;"/>
-      </a>
-      <br>
-      <h3>🎓 Final Project</h3>
-      <p>Capstone Project<br>University final showcase</p>
-      <a href="https://github.com/Ashraf-AlRashidi/Final-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashraf-AlRashidi&repo=Final-Project&theme=tokyonight&border_color=00D9FF&hide_border=false"/></a>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 </div>
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-<br>
 
-## 🛠️ Tech Stack & Tools
+## 🔥 CORE COMPETENCIES
 
 <div align="center">
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark&perline=5"/>
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs&perline=7&theme=dark" />
 
 <br><br>
 
-### Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,linux&theme=dark&perline=6"/>
+### 🛠️ Tools & Technologies  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,linux,docker&perline=7&theme=dark" />
 
 <br><br>
 
-### Additional Technologies
-<img src="https://skillicons.dev/icons?i=mysql,firebase,figma&theme=dark&perline=3"/>
+### 🎨 Design & Extras
+<img src="https://skillicons.dev/icons?i=figma,photoshop,mysql,firebase&perline=4&theme=dark" />
 
 </div>
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <br>
 
-## 📊 GitHub Analytics
+## 🌟 SHOWCASE - MY MASTERPIECES
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashraf-AlRashidi&show_icons=true&theme=tokyonight&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&border_color=00D9FF&hide_border=false&rank_icon=github" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf-AlRashidi&theme=tokyonight&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0d1117&border=00D9FF&stroke=00D9FF" width="48%" alt="Streak Stats"/>
+### ⭐ ELITE COLLECTION
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                  🎯 FEATURED PROJECTS                    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+<table width="100%" align="center">
+<tr>
+<td width="33%" align="center">
+
+### 🏥 ETAMEN  
+**إطمن - Health & Care**
+
+<img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=250&h=150&q=80" width="100%" style="border-radius: 12px; margin: 10px 0;"/>
+
+Your trusted healthcare companion  
+[Explore →](https://github.com/Ashraf-AlRashidi/etamen)
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 ASHRAF TOOLS V3  
+**Premium Utilities Suite**
+
+<img src="https://images.unsplash.com/photo-1517694712202-14819c9cb6e1?auto=format&fit=crop&w=250&h=150&q=80" width="100%" style="border-radius: 12px; margin: 10px 0;"/>
+
+Advanced web toolbox  
+[Explore →](https://github.com/Ashraf-AlRashidi/AshrafTools-V3)
+
+</td>
+<td width="33%" align="center">
+
+### 📹 TELEPROMPTER  
+**Content Creator's Dream**
+
+<img src="https://images.unsplash.com/photo-1601506521937-0121a7fc2a6b?auto=format&fit=crop&w=250&h=150&q=80" width="100%" style="border-radius: 12px; margin: 10px 0;"/>
+
+Smooth presentation tool  
+[Explore →](https://github.com/Ashraf-AlRashidi/teleprompter)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🎯 EXPANDED UNIVERSE
+
+<table width="100%" align="center">
+<tr>
+<td width="25%" align="center">
+
+### ⏳ AGE CALCULATOR
+Interactive companion  
+[View Project →](https://github.com/Ashraf-AlRashidi/AgeCalculator)
+
+</td>
+<td width="25%" align="center">
+
+### ❤️ LOVE STORY
+Animated narrative  
+[View Project →](https://github.com/Ashraf-AlRashidi/love-story)
+
+</td>
+<td width="25%" align="center">
+
+### 🛒 SUPERMARKET
+Java Management System  
+[View Project →](https://github.com/Ashraf-AlRashidi/Java-OOP-Supermarket-Management-System)
+
+</td>
+<td width="25%" align="center">
+
+### 🎨 ARTISTIC
+Creative Showcase  
+[View Project →](https://github.com/Ashraf-AlRashidi/Artistic_Ashrooof)
+
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+
+### 💼 NEGOTIATION
+Business Tool  
+[View Project →](https://github.com/Ashraf-AlRashidi/Negotation_Ashrooof)
+
+</td>
+<td width="25%" align="center">
+
+### 🔧 TOOLS V2
+Web Utilities  
+[View Project →](https://github.com/Ashraf-AlRashidi/AshrafTools-V2)
+
+</td>
+<td width="25%" align="center">
+
+### 🎓 FINAL PROJECT
+University Capstone  
+[View Project →](https://github.com/Ashraf-AlRashidi/Final-Project)
+
+</td>
+<td width="25%" align="center">
+
+### 📚 AND MORE
+[View All →](https://github.com/Ashraf-AlRashidi?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## 📊 STATS & ACHIEVEMENTS
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ashraf-AlRashidi&show_icons=true&theme=tokyonight&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF&bg_color=0d1117&border_color=00D9FF&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf-AlRashidi&theme=tokyonight&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF&background=0d1117&border=00D9FF&stroke=FF6B9D" alt="Streak Stats"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-AlRashidi&layout=donut&theme=tokyonight&title_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&border_color=00D9FF&hide_border=false" alt="Top Languages" width="60%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-AlRashidi&layout=compact&theme=tokyonight&title_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&border_color=00D9FF&hide_border=false&card_width=300" width="48%" alt="Top Languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashraf-AlRashidi&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=false&border_radius=10" width="48%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashraf-AlRashidi&bg_color=0d1117&color=00D9FF&line=FF6B9D&point=FFFFFF&area_color=00D9FF&area=true&hide_border=false&custom_title=Contribution%20Activity&radius=10" alt="Activity Graph" width="100%"/>
 
 </div>
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-<br>
 
-## 🏅 GitHub Trophies
+## 🏆 HALL OF FAME
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashraf-AlRashidi&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=false" width="100%" alt="GitHub Trophies"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ashraf-AlRashidi&theme=tokyonight&column=8&margin-w=10&margin-h=10&no-frame=false&no-bg=false&row=2" width="100%" alt="GitHub Trophies"/>
+
 </div>
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-<br>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashraf-AlRashidi/Ashraf-AlRashidi/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashraf-AlRashidi/Ashraf-AlRashidi/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Ashraf-AlRashidi/Ashraf-AlRashidi/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-<br>
 
-## 🎯 My Journey & Goals
+## 🎪 THE CREATIVE MIND
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                           │
-│  🎓 Software Engineering Student | Egypt 🇪🇬            │
-│  💻 Full-Stack Developer | Tech Enthusiast              │
-│  🚀 Always Learning & Building Amazing Projects          │
-│  🎨 UI/UX Designer | Creative Problem Solver            │
-│  📱 Web & Desktop Application Developer                 │
-│                                                           │
-│  Goal: Make a positive impact through technology 🌟      │
-│                                                           │
-└─────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════╗
+║                   MY PHILOSOPHY                          ║
+╠═══════════════════════════════════════════════════════════╣
+║                                                           ║
+║  "Code is not just about functions and logic.            ║
+║   It's about creating solutions that matter,             ║
+║   experiences that inspire, and futures that amaze."     ║
+║                                                           ║
+║  🎯 Focus: Innovation                                    ║
+║  🔥 Drive: Passion                                       ║
+║  💡 Goal: Make an Impact                                ║
+║  🚀 Vision: Change Technology Landscape                 ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-<br>
 
-## 💌 Let's Connect & Collaborate
+## 🌐 CONNECT & COLLABORATE
 
 <div align="center">
 
-Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi! ✨
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+### 💬 LET'S TALK
+
+**Interested in collaboration?**  
+**Have a project idea?**  
+**Want to discuss tech?**
+
+✨ I'm always open to exciting opportunities!
+
+</td>
+<td width="50%" align="center">
+
+### 🚀 QUICK LINKS
+
+📧 Email: [elfrouna@gmail.com](mailto:elfrouna@gmail.com)  
+🔗 LinkedIn: [Connect](https://www.linkedin.com/in/ashraf-al-rashidi-68141b272/)  
+📺 YouTube: [Subscribe](https://www.youtube.com/@elfroun_2006)  
+💻 GitHub: [Follow](https://github.com/Ashraf-AlRashidi)
+
+</td>
+</tr>
+</table>
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Keep%20learning%2C%20keep%20coding%2C%20keep%20creating!" alt="Quote" />
+### 🎨 INSPIRATION QUOTE
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Every%20great%20developer%20you%20know%20got%20there%20by%20solving%20problems%20they%20were%20unqualified%20to%20solve%20until%20they%20actually%20did%20it.&author=Patrick%20McKenzie" alt="Quote" width="100%"/>
 
 <br><br>
 
-**Let's build something amazing together! 🚀**
+### 🎬 THANKS FOR VISITING!
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWoLvqt/giphy.gif" width="200" alt="Thank You"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:00D9FF,100:1E90FF&height=150&section=footer&reversal=false&animation=fadeIn" width="100%"/>
 
 </div>
+

@@ -74,7 +74,8 @@
 ║  🎨 Name: Ashraf Al-Rashidi          ║
 ║  📍 Location: Egypt 🇪🇬               ║
 ║  🎓 Status: Software Engineer        ║
-║  💻 Role: Full-Stack Developer       ║
+║  💻 Role: Full-Stack Developer
+       ║
 ║  ⚡ Passion: Innovation & Creativity ║ 
 ║  🚀 Mission: Change the World        ║
 ║                                       ║

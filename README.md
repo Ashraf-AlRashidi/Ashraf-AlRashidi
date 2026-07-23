@@ -67,18 +67,18 @@
 <td width="40%">
 
 ```
-╔════════════════════════════════════╗
-║        👨‍💻 CODE ARTIST PROFILE        ║
-╠════════════════════════════════════╣
-║                                    ║
-║  🎨 Name: Ashraf Al-Rashidi       ║
-║  📍 Location: Egypt 🇪🇬           ║
-║  🎓 Status: Software Engineer     ║
-║  💻 Role: Full-Stack Developer    ║
-║  ⚡ Passion: Innovation & Creativity║
-║  🚀 Mission: Change the World     ║
-║                                    ║
-╚════════════════════════════════════╝
+╔═══════════════════════════════════════╗
+║        👨‍💻CODE ARTIST PROFILE         ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  🎨 Name: Ashraf Al-Rashidi          ║
+║  📍 Location: Egypt 🇪🇬               ║
+║  🎓 Status: Software Engineer        ║
+║  💻 Role: Full-Stack Developer       ║
+║  ⚡ Passion: Innovation & Creativity ║ 
+║  🚀 Mission: Change the World        ║
+║                                       ║
+╚═══════════════════════════════════════╝
 ```
 
 </td>
@@ -294,17 +294,17 @@ University Capstone
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║                   MY PHILOSOPHY                          ║
+║                   MY PHILOSOPHY                           ║
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
-║  "Code is not just about functions and logic.            ║
-║   It's about creating solutions that matter,             ║
-║   experiences that inspire, and futures that amaze."     ║
+║  "Code is not just about functions and logic.             ║
+║   It's about creating solutions that matter,              ║
+║   experiences that inspire, and futures that amaze."      ║
 ║                                                           ║
 ║  🎯 Focus: Innovation                                    ║
 ║  🔥 Drive: Passion                                       ║
-║  💡 Goal: Make an Impact                                ║
-║  🚀 Vision: Change Technology Landscape                 ║
+║  💡 Goal: Make an Impact                                 ║
+║  🚀 Vision: Change Technology Landscape                  ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```

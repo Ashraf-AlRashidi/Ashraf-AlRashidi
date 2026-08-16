@@ -1,0 +1,53 @@
+name: Profile README Maintenance
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  maintain-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update profile README
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          p = Path('README.md')
+          s = p.read_text(encoding='utf-8')
+
+          replacements = {
+              'https://github-readme-streak-stats.herokuapp.com/?user=Ashraf-AlRashidi': 'https://streak-stats.demolab.com/?user=Ashraf-AlRashidi',
+              '&count_private=true': '',
+              '<br><sub>GSoC 2026 Registered</sub>': '<br><sub>Open Source & GSoC Preparation</sub>',
+              'current     = "Building AI-powered apps 🚀 | GSoC 2026 prep"': 'current     = "Building AI-powered apps 🚀 | Java OOP • Flutter • Python • AI"',
+          }
+
+          for old, new in replacements.items():
+              s = s.replace(old, new)
+
+          marker = '<img src="https://komarev.com/ghpvc/?username=Ashraf-AlRashidi&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />'
+          metrics = '''\n\n<p>\n  <img src="https://img.shields.io/github/followers/Ashraf-AlRashidi?style=for-the-badge&label=Followers"/>\n  <img src="https://img.shields.io/github/stars/Ashraf-AlRashidi?style=for-the-badge&label=Total%20Stars"/>\n  <img src="https://img.shields.io/github/last-commit/Ashraf-AlRashidi/Ashraf-AlRashidi?style=for-the-badge&label=Profile%20Updated"/>\n</p>'''
+
+          if marker in s and 'label=Total%20Stars' not in s:
+              s = s.replace(marker, marker + metrics, 1)
+
+          p.write_text(s, encoding='utf-8')
+          PY
+
+      - name: Commit profile updates
+        run: |
+          git config user.name "Ashraf-AlRashidi"
+          git config user.email "189549160+Ashraf-AlRashidi@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: refresh profile stats and details"
+          git push

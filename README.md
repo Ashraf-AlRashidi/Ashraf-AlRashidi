@@ -39,6 +39,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=Ashraf-AlRashidi&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
+<p>
+  <img src="https://img.shields.io/github/followers/Ashraf-AlRashidi?style=for-the-badge&label=Followers"/>
+  <img src="https://img.shields.io/github/stars/Ashraf-AlRashidi?style=for-the-badge&label=Total%20Stars"/>
+  <img src="https://img.shields.io/github/last-commit/Ashraf-AlRashidi/Ashraf-AlRashidi?style=for-the-badge&label=Profile%20Updated"/>
+</p>
+
 </div>
 
 ---
@@ -67,7 +73,7 @@ class Ashraf:
     certified   = ["CS50x — Harvard", "IBM R for Data Science", 
                    "One Million Prompters", "Google Play Academy"]
 
-    current     = "Building AI-powered apps 🚀 | GSoC 2026 prep"
+    current     = "Building AI-powered apps 🚀 | Java OOP • Flutter • Python • AI"
     vibe        = "Coffee ☕ + Code 💻 + Lo-fi 🎧"
 
     def motto(self):
@@ -104,7 +110,7 @@ class Ashraf:
     <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="55"/>
       <br><b>🌱 Open Source</b>
-      <br><sub>GSoC 2026 Registered</sub>
+      <br><sub>Open Source & GSoC Preparation</sub>
     </td>
   </tr>
 </table>
@@ -261,8 +267,8 @@ class Ashraf:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashraf-AlRashidi&show_icons=true&theme=tokyonight&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&border_color=00D9FF&border_radius=12&count_private=true&hide_border=false" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf-AlRashidi&theme=tokyonight&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0d1117&border=00D9FF&stroke=00D9FF&dates=AAAAAA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ashraf-AlRashidi&show_icons=true&theme=tokyonight&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&border_color=00D9FF&border_radius=12&hide_border=false" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Ashraf-AlRashidi&theme=tokyonight&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0d1117&border=00D9FF&stroke=00D9FF&dates=AAAAAA" width="49%"/>
 
 <br><br>
 

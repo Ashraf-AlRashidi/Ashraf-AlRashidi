@@ -1,0 +1,63 @@
+name: Update GitHub Trophies
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-trophies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download latest trophy card
+        shell: bash
+        run: |
+          set -euo pipefail
+          urls=(
+            'https://github-profile-trophy.vercel.app/?username=Ashraf-AlRashidi&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=false&no-bg=false'
+            'https://github-profile-trophy-winning.vercel.app/?username=Ashraf-AlRashidi&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=false&no-bg=false'
+            'https://github-profile-trophy-tawny.vercel.app/?username=Ashraf-AlRashidi&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=false&no-bg=false'
+          )
+          ok=0
+          for url in "${urls[@]}"; do
+            if curl -fsSL --retry 2 --connect-timeout 10 "$url" -o trophy.svg && grep -q '<svg' trophy.svg; then
+              ok=1
+              break
+            fi
+          done
+          if [ "$ok" -ne 1 ]; then
+            echo 'Could not download a trophy SVG from the available endpoints'
+            exit 1
+          fi
+
+      - name: Use local trophy image in README
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('README.md')
+          s = p.read_text(encoding='utf-8')
+          start = '  <img src="https://github-profile-trophy.vercel.app/?username=Ashraf-AlRashidi'
+          a = s.find(start)
+          if a != -1:
+              b = s.find('/>', a)
+              if b != -1:
+                  s = s[:a] + '  <img src="./trophy.svg" width="95%" alt="GitHub Trophies"/>' + s[b+2:]
+          p.write_text(s, encoding='utf-8')
+          PY
+
+      - name: Commit trophy update
+        run: |
+          git config user.name 'Ashraf-AlRashidi'
+          git config user.email '189549160+Ashraf-AlRashidi@users.noreply.github.com'
+          git add README.md trophy.svg
+          git diff --cached --quiet || git commit -m 'chore: update GitHub trophies'
+          git push

@@ -288,7 +288,7 @@ class Ashraf:
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashraf-AlRashidi&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=false&no-bg=false" width="95%"/>
+  <img src="./trophy.svg" width="95%"/>
 </div>
 
 ---
